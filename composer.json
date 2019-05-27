@@ -36,8 +36,8 @@
         "illuminate/view": "^5.1"
     },
     "require-dev": {
-        "mockery/mockery": "~0.9.4",
-        "phpunit/phpunit": "~4.8|~5.4",
+        "mockery/mockery": "~0.9.4|~1.0",
+        "phpunit/phpunit": "~4.8|~7.0",
         "nesbot/carbon": "~1.20"
     },
     "suggest": {
